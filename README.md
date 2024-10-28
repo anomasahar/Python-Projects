@@ -11,7 +11,6 @@ Feel free to explore, clone, or contribute!
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Overview
 This repository contains a series of Python projects aimed at practicing and demonstrating different programming concepts, algorithms, and libraries. Each project is self-contained and designed to be easily understandable.
@@ -22,12 +21,9 @@ This repository contains a series of Python projects aimed at practicing and dem
 ## Projects
 Here’s a brief list of the projects included in this repository:
 
-- **Calculator**: A simple command-line calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. 
-    
-    It's designed to demonstrate basic programming concepts such as functions and user input handling.
-- **Project 2**: Description of the second project.
-- **Project 3**: Description of the third project.
-- **And so on...**
+- [Calculator](01-Calculator): A simple command-line calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+- [Guessing Game](02-GuessingGame): A command-line game where the player tries to guess a randomly generated number within a set range.
 
 Each project folder contains its own README file with detailed instructions and explanations.
 
@@ -41,7 +37,7 @@ To get started with any of the projects, follow these steps:
 
 2. **Navigate into the Project Directory**:
     ```bash
-    cd your-project-name
+    cd project-name
     ```
 
 ## Usage
