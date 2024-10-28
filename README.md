@@ -17,6 +17,8 @@ This repository contains a series of Python projects aimed at practicing and dem
 
 ## Technologies Used
 - **Python**: The primary programming language for all projects.
+- **Docker**: Used to containerize projects, making them easy to run in isolated environments.
+- **Dev Container**: Provides a consistent development environment using Visual Studio Code's Remote - Containers extension, allowing seamless setup and development.
 
 ## Projects
 Here’s a brief list of the projects included in this repository:
@@ -24,8 +26,6 @@ Here’s a brief list of the projects included in this repository:
 - [Calculator](01-Calculator): A simple command-line calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 - [Guessing Game](02-GuessingGame): A command-line game where the player tries to guess a randomly generated number within a set range.
-
-Each project folder contains its own README file with detailed instructions and explanations.
 
 ## Installation
 To get started with any of the projects, follow these steps:
