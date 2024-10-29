@@ -42,7 +42,7 @@ To set up the Number Guessing Game on your local machine, follow these steps:
     ```
 
 ## Running with Docker
-To run the calculator using Docker, ensure you have Docker installed, then use the following command:
+To run the guessing game using Docker, ensure you have Docker installed, then use the following command:
 ```bash
     docker build -t guessing-game
     docker run -it guessing-game
