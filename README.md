@@ -29,6 +29,7 @@ Here’s a brief list of the projects included in this repository:
 
 - [Bitmap Message](03-BitmapMessage): A program that displays user messages in a pixelated style based on a 2D bitmap template, creating a unique text-based image.
 
+- [Blackjack Game](04-BlackjackGame): A console-based implementation of the classic card game where players aim to reach 21 points without exceeding it, featuring ASCII art to represent the playing cards.
 
 ## Installation
 To get started with any of the projects, follow these steps:
