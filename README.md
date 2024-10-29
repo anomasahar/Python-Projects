@@ -27,6 +27,9 @@ Here’s a brief list of the projects included in this repository:
 
 - [Guessing Game](02-GuessingGame): A command-line game where the player tries to guess a randomly generated number within a set range.
 
+- [Bitmap Message](03-BitmapMessage): A program that displays user messages in a pixelated style based on a 2D bitmap template, creating a unique text-based image.
+
+
 ## Installation
 To get started with any of the projects, follow these steps:
 
