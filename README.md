@@ -33,6 +33,10 @@ Here’s a brief list of the projects included in this repository:
 
 - [Encryption](05-Encryption): A Python program that encrypts and decrypts messages by shifting letters in the alphabet according to a specified key, based on the ancient Caesar cipher encryption technique.
 
+- [Carrot-in-the-Box](06-CarrotInTheBox): A bluffing game for two players where one box contains a carrot, and players must decide whether to keep or swap boxes based on bluffs.
+
+- [Factorization Program](07-Factorization): A utility that allows users to enter a positive whole number and receive its factors, determining if the number is prime or composite.
+
 ## Installation
 To get started with any of the projects, follow these steps:
 
