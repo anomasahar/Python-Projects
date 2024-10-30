@@ -31,6 +31,8 @@ Here’s a brief list of the projects included in this repository:
 
 - [Blackjack Game](04-BlackjackGame): A console-based implementation of the classic card game where players aim to reach 21 points without exceeding it, featuring ASCII art to represent the playing cards.
 
+- [Encryption](05-Encryption): A Python program that encrypts and decrypts messages by shifting letters in the alphabet according to a specified key, based on the ancient Caesar cipher encryption technique.
+
 ## Installation
 To get started with any of the projects, follow these steps:
 
