@@ -37,6 +37,12 @@ Here’s a brief list of the projects included in this repository:
 
 - [Factorization Program](07-Factorization): A utility that allows users to enter a positive whole number and receive its factors, determining if the number is prime or composite.
 
+- [Hangman Game](08-Hangman): A classic word-guessing game where players try to guess a secret word by guessing letters. Incorrect guesses add parts to a hangman drawing until the game ends.
+
+- [Monty Hall Problem](09-MontyHallProblem): A simulation of the Monty Hall probability puzzle where players choose between three doors, and the host reveals a non-prize door to demonstrate probabilities.
+
+- [Math Quiz with Dice](10-MathQuiz): A math quiz where players quickly add numbers rolled on dice displayed as ASCII art. Each roll places dice faces randomly, adding a fun twist to arithmetic practice.
+
 ## Installation
 To get started with any of the projects, follow these steps:
 
